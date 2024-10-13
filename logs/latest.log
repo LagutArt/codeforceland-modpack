@@ -1,0 +1,2033 @@
+[01:52:19] [main/INFO]: ModLauncher running: args [--username, alex_pyslar, --version, CodeForceLand.ru, --gameDir, C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru, --assetsDir, C:\Users\alexp\AppData\Roaming\.minecraft\assets, --assetIndex, 5, --uuid, 87ca688dbc8149a78fb4b199e38e74a9, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, modified, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[01:52:19] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[01:52:19] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[01:52:20] [main/INFO]: Trying GL version 4.6
+[01:52:20] [main/INFO]: Requested GL version 4.6 got version 4.6
+[01:52:20] [main/INFO]: OptiFineTransformationService.onLoad
+[01:52:20] [main/INFO]: OptiFine ZIP file URL: union:/C:/Users/alexp/AppData/Roaming/.minecraft/versions/CodeForceLand.ru/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23177!/
+[01:52:20] [main/INFO]: OptiFine ZIP file: C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods\preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
+[01:52:20] [main/INFO]: Target.PRE_CLASS is available
+[01:52:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/alexp/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[01:52:20] [main/INFO]: OptiFineTransformationService.initialize
+[01:52:20] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2 GL version 4.6.0 NVIDIA 565.90, NVIDIA Corporation
+[01:52:20] [main/INFO]: Found mod file appliedenergistics2-forge-15.2.13.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file BiomesOPlenty-forge-1.20.1-19.0.0.91.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file cfm-forge-1.20.1-7.0.0-pre36.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file create-1.20.1-0.5.1.h.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file DungeonsArise-1.20.x-2.1.58-release.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.4.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file framework-forge-1.20.1-0.7.8.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.4.9.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file GlitchCore-forge-1.20.1-0.0.1.1.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.104.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file journeymap-1.20.1-5.10.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file letsdo-API-forge-1.2.15-forge.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file letsdo-nethervinery-forge-1.2.14.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file letsdo-vinery-forge-1.4.28.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file naturalist-forge-4.0.3-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file naturalistdelight-1.0.2-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.1.7.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:20] [main/INFO]: Found mod file tl_skin_cape_forge_1.20_1.20.1-1.32.jar of type MOD with provider {mods folder locator at C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru\mods}
+[01:52:21] [main/WARN]: Mod file C:\Users\alexp\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.0\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[01:52:21] [main/WARN]: Mod file C:\Users\alexp\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.0\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[01:52:21] [main/WARN]: Mod file C:\Users\alexp\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.0\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[01:52:21] [main/WARN]: Mod file C:\Users\alexp\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.0\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[01:52:21] [main/INFO]: Found mod file fmlcore-1.20.1-47.3.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@153f66e7
+[01:52:21] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@153f66e7
+[01:52:21] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@153f66e7
+[01:52:21] [main/INFO]: Found mod file mclanguage-1.20.1-47.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@153f66e7
+[01:52:21] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@153f66e7
+[01:52:21] [main/INFO]: Found mod file forge-1.20.1-47.3.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@153f66e7
+[01:52:21] [main/INFO]: Found 6 dependencies adding them to mods collection
+[01:52:21] [main/INFO]: Found mod file mixinextras-forge-0.3.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6f89292e
+[01:52:21] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6f89292e
+[01:52:21] [main/INFO]: Found mod file jankson-1.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6f89292e
+[01:52:21] [main/INFO]: Found mod file MixinExtras-0.3.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6f89292e
+[01:52:21] [main/INFO]: Found mod file flywheel-forge-1.20.1-0.6.11-13.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6f89292e
+[01:52:21] [main/INFO]: Found mod file Registrate-MC1.20-1.3.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@6f89292e
+[01:52:22] [main/INFO]: OptiFineTransformationService.transformers
+[01:52:22] [main/INFO]: Targets: 412
+[01:52:22] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
+[01:52:23] [main/INFO]: Compatibility level set to JAVA_17
+[01:52:24] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[01:52:24] [main/INFO]: Launching target 'forgeclient' with arguments [--version, CodeForceLand.ru, --gameDir, C:\Users\alexp\AppData\Roaming\.minecraft\versions\CodeForceLand.ru, --assetsDir, C:\Users\alexp\AppData\Roaming\.minecraft\assets, --uuid, 87ca688dbc8149a78fb4b199e38e74a9, --username, alex_pyslar, --assetIndex, 5, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, modified, --width, 925, --height, 530]
+[01:52:24] [main/WARN]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:52:26] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[01:52:31] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 180 milliseconds
+[01:52:34] [Render thread/WARN]: Assets URL 'union:/C:/Users/alexp/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23198!/assets/.mcassetsroot' uses unexpected schema
+[01:52:34] [Render thread/WARN]: Assets URL 'union:/C:/Users/alexp/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23198!/data/.mcassetsroot' uses unexpected schema
+[01:52:34] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:52:34] [Render thread/ERROR]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:147) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:63) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at net.minecraft.client.Minecraft.m_193585_(Minecraft.java:649) ~[client-1.20.1-20230612.114412-srg.jar%23198!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:413) ~[client-1.20.1-20230612.114412-srg.jar%23198!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:182) ~[CodeForceLand.ru.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.3.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.3.0.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:122) ~[authlib-4.0.43.1.jar%23111!/:?]
+	... 20 more
+[01:52:34] [Render thread/INFO]: Setting user: alex_pyslar
+[01:52:34] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[01:52:34] [Render thread/INFO]: [OptiFine] Forge version: 47.3.0
+[01:52:34] [Render thread/INFO]: [OptiFine] Forge version above 47.0.3, antialiasing disabled
+[01:52:34] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[01:52:34] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[01:52:34] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[01:52:34] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[01:52:34] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
+[01:52:34] [Render thread/INFO]: [OptiFine] 
+[01:52:34] [Render thread/INFO]: [OptiFine] OptiFine_1.20.1_HD_U_I6_pre6
+[01:52:34] [Render thread/INFO]: [OptiFine] Build: 20230727-130058
+[01:52:34] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[01:52:34] [Render thread/INFO]: [OptiFine] Java: 17.0.8, Microsoft
+[01:52:34] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[01:52:34] [Render thread/INFO]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
+[01:52:34] [Render thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2, version 4.6.0 NVIDIA 565.90, NVIDIA Corporation
+[01:52:34] [Render thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[01:52:34] [Render thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[01:52:34] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[01:52:34] [Render thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 565.90
+[01:52:34] [Render thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[01:52:34] [Render thread/INFO]: [Shaders] Renderer: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2
+[01:52:34] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[01:52:35] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[01:52:35] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[01:52:35] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[01:52:35] [Render thread/INFO]: [Shaders] Load shaders configuration.
+[01:52:35] [Render thread/INFO]: [Shaders] Loaded shaderpack: ComplementaryUnbound_r5.2.2.zip
+[01:52:35] [Render thread/INFO]: [OptiFine] [Shaders] Worlds: -1, 0, 1
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: WATER_STYLE_DEFAULT
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 1
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 3
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: AURORA_STYLE_DEFAULT
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 1
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 2
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: SUN_MOON_STYLE_DEFAULT
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 1
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 2
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: CLOUD_STYLE_DEFAULT
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 1
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 3
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: WATER_STYLE
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: WATER_STYLE_DEFAULT
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: WATER_STYLE_DEFINE
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: WATER_CAUSTIC_STYLE
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: WATER_STYLE
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: WATER_CAUSTIC_STYLE_DEFINE
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: AURORA_STYLE
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: AURORA_STYLE_DEFAULT
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: AURORA_STYLE_DEFINE
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: SUN_MOON_STYLE
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: SUN_MOON_STYLE_DEFAULT
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: SUN_MOON_STYLE_DEFINE
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: CLOUD_STYLE
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: CLOUD_STYLE_DEFAULT
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: CLOUD_STYLE_DEFINE
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: sunPathRotation
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 0.0
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: -40.0
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: shadowMapResolution
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 2048
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 4096
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: SSAO_QUALI
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: SSAO_QUALI_DEFINE
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 0
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: LIGHTSHAFT_QUALI
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: LIGHTSHAFT_QUALI_DEFINE
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 0
+[01:52:35] [Render thread/WARN]: [OptiFine] Ambiguous shader option: WATER_MAT_QUALITY
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 1
+[01:52:35] [Render thread/WARN]: [OptiFine]  - in world-1/shadow.vsh: 2
+[01:52:35] [VersionCheck/INFO]: [OptiFine] java.io.FileNotFoundException: http://optifine.net/version/1.20.1/HD_U.txt
+[01:52:36] [Render thread/WARN]: [OptiFine] Ambiguous shader option: CLOUD_BASE_ADD
+[01:52:36] [Render thread/WARN]: [OptiFine]  - in world-1/deferred1.vsh: 0.65
+[01:52:36] [Render thread/WARN]: [OptiFine]  - in world-1/deferred1.vsh: 0.9
+[01:52:36] [Render thread/WARN]: [OptiFine] Ambiguous shader option: CLOUD_FAR_ADD
+[01:52:36] [Render thread/WARN]: [OptiFine]  - in world-1/deferred1.vsh: 0.01
+[01:52:36] [Render thread/WARN]: [OptiFine]  - in world-1/deferred1.vsh: -0.005
+[01:52:36] [Render thread/WARN]: [OptiFine] Ambiguous shader option: CLOUD_ABOVE_ADD
+[01:52:36] [Render thread/WARN]: [OptiFine]  - in world-1/deferred1.vsh: 0.1
+[01:52:36] [Render thread/WARN]: [OptiFine]  - in world-1/deferred1.vsh: 0.03
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: SHADOW_QUALITY
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: FXAA_DEFINE
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: COLORED_LIGHTING
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: ENTITY_SHADOWS_DEFINE
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: PLAYER_SHADOW
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: PLAYER_SHADOW
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: COLORED_LIGHTING
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: COLORED_LIGHTING
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: COLORED_LIGHTING
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: COLORED_LIGHTING
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: COLORED_LIGHTING
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: COLORED_LIGHTING
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: COLORED_LIGHTING
+[01:52:38] [Render thread/WARN]: [OptiFine] Unknown macro value: RAIN_PUDDLES
+[01:52:38] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[01:52:38] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[01:52:38] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[01:52:38] [Render thread/INFO]: [Shaders] Custom texture: texture.gbuffers.gaux4 = lib/textures/cloud-water.png
+[01:52:38] [Render thread/INFO]: [Shaders] Custom texture: texture.deferred.colortex3 = lib/textures/cloud-water.png
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: framemod8
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: isEyeInCave
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: inDry
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: inRainy
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: inSnowy
+[01:52:38] [Render thread/INFO]: [Shaders] Custom variable: difX
+[01:52:38] [Render thread/INFO]: [Shaders] Custom variable: difY
+[01:52:38] [Render thread/INFO]: [Shaders] Custom variable: difZ
+[01:52:38] [Render thread/INFO]: [Shaders] Custom variable: difSum
+[01:52:38] [Render thread/INFO]: [Shaders] Custom variable: moving
+[01:52:38] [Render thread/INFO]: [Shaders] Custom variable: moved
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: starter
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: frameTimeSmooth
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: eyeBrightnessM
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: eyeBrightnessM2
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: rainFactor
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: inNetherWastes
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: inCrimsonForest
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: inWarpedForest
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: inBasaltDeltas
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: inSoulValley
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: skyColorSmooth
+[01:52:38] [Render thread/INFO]: [Shaders] Custom uniform: maxBlindnessDarkness
+[01:52:38] [Render thread/WARN]: [Shaders] net.optifine.expr.ParseException: Model variable not found: darknessFactor
+[01:52:39] [modloading-worker-0/INFO]: Optifine detected.
+[01:52:39] [modloading-worker-0/INFO]: Sending ConfigManager...
+[01:52:39] [modloading-worker-0/INFO]: Sending ConfigManager took 3.905 ms
+[01:52:39] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[01:52:39] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[01:52:39] [modloading-worker-0/INFO]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[01:52:39] [modloading-worker-0/INFO]: MinecraftForge v47.3.0 Initialized
+[01:52:40] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:40] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/WARN]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[01:52:43] [Render thread/WARN]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[01:52:43] [Render thread/WARN]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[01:52:43] [Render thread/WARN]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:43] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Resource provider initialized, side is CLIENT
+[01:52:44] [Render thread/INFO]: Registering Keybinds
+[01:52:45] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources
+[01:52:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[01:52:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[01:52:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[01:52:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[01:52:45] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[01:52:45] [Render thread/INFO]: [OptiFine] Resource packs: mod_resources
+[01:52:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[01:52:45] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
+[01:52:45] [Worker-Main-5/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/signs.png
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[01:52:45] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[01:52:45] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/blocks.png
+[01:52:45] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[01:52:45] [Worker-Main-2/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[01:52:45] [Worker-Main-2/INFO]: [OptiFine] Multipass connected textures: false
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shield_patterns.png
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[01:52:45] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/banner_patterns.png
+[01:52:45] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/armor_trims.png
+[01:52:45] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[01:52:45] [Worker-Main-1/INFO]: [OptiFine] Sprite size: 64
+[01:52:45] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 6
+[01:52:45] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[01:52:45] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[01:52:45] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[01:52:45] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/decorated_pot.png
+[01:52:45] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 4
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/chest.png
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[01:52:46] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 4
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Sprite size: 64
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 6
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/beds.png
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Sprite size: 64
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 6
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shulker_boxes.png
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Sprite size: 64
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 6
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[01:52:46] [Thread-5/ERROR]: OpenGL API ERROR: 1282 (GL_INVALID_OPERATION error generated. Texture name does not refer to a texture object generated by OpenGL.)
+java.lang.Exception: Stack trace
+	at com.mojang.blaze3d.platform.GlDebug.m_84038_(GlDebug.java:180) ~[?:?]
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:46) ~[lwjgl-opengl-3.3.1.jar%23147!/:build 7]
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/paintings.png
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/particles.png
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Multitexture: false
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/mob_effects.png
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_2, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_1, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_0, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:snowblossom_11, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:snowblossom_10, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_11, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_10, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:snowblossom_9, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:snowblossom_8, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:snowblossom_7, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:snowblossom_6, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:snowblossom_5, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:snowblossom_4, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:snowblossom_3, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:snowblossom_2, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:snowblossom_1, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:snowblossom_0, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:yellow_maple_1, 5 -> 10
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:yellow_maple_2, 5 -> 10
+[01:52:46] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:yellow_maple_0, 5 -> 10
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:yellow_maple_3, 5 -> 10
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:jacaranda_4, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:jacaranda_5, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:jacaranda_2, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:jacaranda_3, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:jacaranda_0, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:jacaranda_1, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:jacaranda_8, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:jacaranda_9, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:jacaranda_6, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:jacaranda_7, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:red_maple_2, 5 -> 10
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:red_maple_3, 5 -> 10
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:orange_maple_0, 5 -> 10
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:red_maple_0, 5 -> 10
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:red_maple_1, 5 -> 10
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:orange_maple_3, 5 -> 10
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:orange_maple_2, 5 -> 10
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:orange_maple_1, 5 -> 10
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:jacaranda_11, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: biomesoplenty:jacaranda_10, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_6, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_5, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_4, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_3, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_9, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_8, 3 -> 9
+[01:52:46] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_7, 3 -> 9
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: jei:textures/atlas/gui.png
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Scaled non power of 2: jei:icons/recipe_transfer, 7 -> 14
+[01:52:46] [Worker-Main-1/INFO]: [OptiFine] Scaled non power of 2: jei:brewing_stand_arrow, 7 -> 14
+[01:52:46] [Worker-Main-4/INFO]: No plugins for JourneyMap API discovered.
+[01:52:46] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[01:52:46] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[01:52:46] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[01:52:47] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[01:52:47] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[01:52:47] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[01:52:47] [Forge Version Check/INFO]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[01:52:47] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[01:52:47] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[01:52:47] [Render thread/INFO]: Initializing Packet Registries
+[01:52:47] [Render thread/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01:52:47] [Render thread/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[01:52:47] [Render thread/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[01:52:47] [Render thread/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[01:52:47] [Render thread/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[01:52:47] [Render thread/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[01:52:47] [Render thread/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[01:52:47] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[01:52:47] [Worker-Main-5/INFO]: Registering S2C receiver with id vinery:shader
+[01:52:47] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[01:52:48] [Forge Version Check/INFO]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[01:52:48] [Forge Version Check/INFO]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[01:52:48] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[01:52:48] [Render thread/INFO]: Journeymap Initializing
+[01:52:48] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[01:52:48] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[01:52:48] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[01:52:48] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'vinery:blockstates/grapevine_leaves.json' in resourcepack: 'mod_resources' for variant: 'distance=13': Unknown value: '13' for blockstate property: 'distance' [1, 2, 3, 4, 5, 6, 7]
+[01:52:48] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'vinery:blockstates/grapevine_leaves.json' in resourcepack: 'mod_resources' for variant: 'distance=14': Unknown value: '14' for blockstate property: 'distance' [1, 2, 3, 4, 5, 6, 7]
+[01:52:48] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'vinery:blockstates/grapevine_leaves.json' in resourcepack: 'mod_resources' for variant: 'distance=11': Unknown value: '11' for blockstate property: 'distance' [1, 2, 3, 4, 5, 6, 7]
+[01:52:48] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'vinery:blockstates/grapevine_leaves.json' in resourcepack: 'mod_resources' for variant: 'distance=12': Unknown value: '12' for blockstate property: 'distance' [1, 2, 3, 4, 5, 6, 7]
+[01:52:48] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'vinery:blockstates/grapevine_leaves.json' in resourcepack: 'mod_resources' for variant: 'distance=10': Unknown value: '10' for blockstate property: 'distance' [1, 2, 3, 4, 5, 6, 7]
+[01:52:48] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'vinery:blockstates/grapevine_leaves.json' in resourcepack: 'mod_resources' for variant: 'distance=8': Unknown value: '8' for blockstate property: 'distance' [1, 2, 3, 4, 5, 6, 7]
+[01:52:48] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'vinery:blockstates/grapevine_leaves.json' in resourcepack: 'mod_resources' for variant: 'distance=9': Unknown value: '9' for blockstate property: 'distance' [1, 2, 3, 4, 5, 6, 7]
+[01:52:48] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[01:52:49] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[01:52:49] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[01:52:49] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[01:52:49] [Forge Version Check/INFO]: [cfm] Found status: BETA Current: 7.0.0-pre36 Target: 7.0.0-pre36
+[01:52:49] [Forge Version Check/INFO]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[01:52:49] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[01:52:49] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[01:52:49] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[01:52:50] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[01:52:50] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[01:52:50] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[01:52:50] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[01:52:50] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[01:52:50] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[01:52:50] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[01:52:51] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[01:52:51] [Forge Version Check/INFO]: [framework] Found status: BETA Current: 0.7.8 Target: 0.7.8
+[01:52:51] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01:52:51] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[01:52:51] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[01:52:51] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
+[01:52:51] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[01:52:51] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[01:52:51] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[01:52:52] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[01:52:52] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[01:52:52] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[01:52:52] [Worker-Main-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[01:52:52] [Worker-Main-2/INFO]: [OptiFine] Multipass connected textures: false
+[01:53:02] [Worker-Main-2/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[01:53:05] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 4
+[01:53:09] [Render thread/INFO]: Loaded all shader sources.
+[01:53:13] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[01:53:13] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[01:53:13] [Render thread/WARN]: Missing sound for event: naturalist:rubber_ducky_death
+[01:53:13] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Динамики (High Definition Audio Device)
+[01:53:13] [Render thread/INFO]: Sound engine started
+[01:53:13] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map normal: 2048x2048, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map specular: 2048x2048, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [OptiFine] Animated sprites: 113
+[01:53:13] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/signs.png-atlas
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[01:53:13] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[01:53:13] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[01:53:13] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map normal: 2048x1024, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map specular: 2048x1024, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[01:53:13] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map normal: 128x64, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map specular: 128x64, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[01:53:13] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[01:53:13] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[01:53:13] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 4
+[01:53:13] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[01:53:13] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[01:53:14] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[01:53:14] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 0
+[01:53:14] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 0
+[01:53:14] [Render thread/INFO]: [OptiFine] Animated sprites: 1
+[01:53:14] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[01:53:14] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 0
+[01:53:14] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 0
+[01:53:14] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[01:53:14] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[01:53:14] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x128, mipmaps: 0
+[01:53:14] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x128, mipmaps: 0
+[01:53:14] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[01:53:14] [Render thread/INFO]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[01:53:14] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 0
+[01:53:14] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 0
+[01:53:14] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[01:53:14] [Render thread/INFO]: Loaded 51 train hat configurations.
+[01:53:14] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[01:53:14] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[01:53:14] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[01:53:14] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[01:53:17] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:short_grass
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:leaves
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:leaves2
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:reeds
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:double_plant
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10024=
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10028=
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stonebrick
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:golden_rail
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_lava
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:heavy_core
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:fence
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:fence_gate
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log2
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log2
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stone_slab2
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:chiseled_copper
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_chiseled_copper
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_chiseled_copper
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_chiseled_copper
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_chiseled_copper
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_chiseled_copper
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_chiseled_copper
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_chiseled_copper
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_grate
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_grate
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_grate
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_grate
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_grate
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_grate
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_grate
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_grate
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:quartz_ore
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:snow_layer
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:lit_pumpkin
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:nether_brick
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:melon_block
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:end_bricks
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:hardened_clay
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stained_hardened_clay
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:magma
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:concrete
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:concrete_powder
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waterlily
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:grass_path
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:lit_furnace
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:noteblock
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:powered_repeater
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:powered_comparator
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:unpowered_repeater
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:unpowered_comparator
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wool
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:carpet
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:mob_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:chiseled_tuff
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_bricks
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:chiseled_tuff_bricks
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_stairs
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_slab
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_wall
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff_stairs
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff_slab
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff_wall
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_brick_stairs
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_brick_slab
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_brick_wall
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10713=tuff_stairs tuff_slab tuff_wall polished_tuff_stairs polished_tuff_slab polished_tuff_wall tuff_brick_stairs tuff_brick_slab tuff_brick_wall
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_door
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trapdoor
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:crafter
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10848=crafter
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10852=copper_bulb:lit=true waxed_copper_bulb:lit=true exposed_copper_bulb:lit=true waxed_exposed_copper_bulb:lit=true
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10854=copper_bulb:lit=false waxed_copper_bulb:lit=false exposed_copper_bulb:lit=false waxed_exposed_copper_bulb:lit=false
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10856=weathered_copper_bulb:lit=true waxed_weathered_copper_bulb:lit=true oxidized_copper_bulb:lit=true waxed_oxidized_copper_bulb:lit=true
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_bulb
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10858=weathered_copper_bulb:lit=false waxed_weathered_copper_bulb:lit=false oxidized_copper_bulb:lit=false waxed_oxidized_copper_bulb:lit=false
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_door
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_door
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_door
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_door
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_door
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_door
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_door
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_door
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_trapdoor
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_trapdoor
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_trapdoor
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_trapdoor
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_trapdoor
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_trapdoor
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_trapdoor
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_trapdoor
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10861=copper_door exposed_copper_door weathered_copper_door oxidized_copper_door waxed_copper_door waxed_exposed_copper_door waxed_weathered_copper_door waxed_oxidized_copper_door copper_trapdoor exposed_copper_trapdoor weathered_copper_trapdoor oxidized_copper_trapdoor waxed_copper_trapdoor waxed_exposed_copper_trapdoor waxed_weathered_copper_trapdoor waxed_oxidized_copper_trapdoor
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10868=trial_spawner:ominous=false:trial_spawner_state=active trial_spawner:ominous=false:trial_spawner_state=ejecting_reward trial_spawner:ominous=false:trial_spawner_state=waiting_for_players trial_spawner:ominous=false:trial_spawner_state=waiting_for_reward_ejection vault:ominous=false:vault_state=active vault:ominous=false:vault_state=ejecting vault:ominous=false:vault_state=unlocking
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10872=vault:ominous=false:vault_state=inactive vault:ominous=true:vault_state=inactive
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10873=trial_spawner:ominous=false:trial_spawner_state=cooldown trial_spawner:ominous=false:trial_spawner_state=inactive trial_spawner:ominous=true:trial_spawner_state=cooldown trial_spawner:ominous=true:trial_spawner_state=inactive
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10876=trial_spawner:ominous=true:trial_spawner_state=active trial_spawner:ominous=true:trial_spawner_state=ejecting_reward trial_spawner:ominous=true:trial_spawner_state=waiting_for_players trial_spawner:ominous=true:trial_spawner_state=waiting_for_reward_ejection vault:ominous=true:vault_state=active vault:ominous=true:vault_state=ejecting vault:ominous=true:vault_state=unlocking
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.20000=
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.30000=
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.30004=
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:slime
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:portal
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stained_glass
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stained_glass_pane
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:works
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_water
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60000=
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60028=
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60036=
+[01:53:17] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: biomesoplenty:shaders/block.properties
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: biomesoplenty:brimstone_bricks_slab
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: biomesoplenty:brimstone_bricks_stairs
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: biomesoplenty:brimstone_bricks_wall
+[01:53:17] [Render thread/INFO]: [OptiFine] [Shaders] Parsing item mappings: /shaders/item.properties
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_emerald
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_redstone
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_lapis
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_amethyst
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_quartz
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_netherite
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_diamond
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_gold
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_iron
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_copper
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid item ID mapping: item.45000=trim_emerald trim_redstone trim_lapis trim_amethyst trim_quartz trim_netherite trim_diamond trim_gold trim_iron trim_copper
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: mace
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: breeze_rod
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trial_key
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid item ID mapping: item.45112=trial_key
+[01:53:17] [Render thread/INFO]: [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Entity not found: entity_flame
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid entity ID mapping: entity.50088=entity_flame
+[01:53:17] [Render thread/WARN]: [OptiFine] Shaders: Entity not found: bogged
+[01:53:17] [Render thread/WARN]: [OptiFine] [Shaders] Invalid entity ID mapping: entity.50100=bogged
+[01:53:17] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[01:53:17] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[01:53:17] [Render thread/INFO]: [OptiFine] CustomBlockLayers: shaders/block.properties
+[01:53:17] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[01:53:17] [Render thread/INFO]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
+[01:53:17] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[01:53:19] [Render thread/ERROR]: [Shaders] OpenGL error: 1282 (Invalid operation), program: none, at: pre-useProgram
+[01:53:23] [Render thread/INFO]: Connecting to 95.214.10.107, 25565
+[01:53:33] [Netty Client IO #4/INFO]: Client has mods that are missing on server: [jei, tlskincape]
+[01:53:34] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[01:53:36] [Netty Client IO #2/INFO]: Connected to a modded server.
+[01:53:37] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[01:53:37] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[01:53:37] [Render thread/WARN]: Unknown recipe category: ae2:charger/ae2:charger/charged_certus_quartz_crystal
+[01:53:37] [Render thread/WARN]: Unknown recipe category: ae2:charger/ae2:charger/meteorite_compass
+[01:53:37] [Render thread/WARN]: Unknown recipe category: ae2:charger/ae2:charger/guide
+[01:53:37] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[01:53:39] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[01:53:39] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[01:53:39] [Render thread/INFO]: Starting JEI...
+[01:53:39] [Render thread/INFO]: Registering item subtypes...
+[01:53:39] [Render thread/INFO]: Registering item subtypes took 3.579 ms
+[01:53:39] [Render thread/INFO]: Registering fluid subtypes...
+[01:53:39] [Render thread/INFO]: Registering fluid subtypes took 1.011 ms
+[01:53:39] [Render thread/INFO]: Registering ingredients...
+[01:53:39] [Render thread/WARN]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. Инструменты оператора
+[01:53:39] [Render thread/INFO]: Registering ingredients: jei:minecraft took 118.5 milliseconds
+[01:53:39] [Render thread/INFO]: Registering ingredients took 118.9 ms
+[01:53:39] [Render thread/INFO]: Registering extra ingredients...
+[01:53:39] [Render thread/INFO]: Registering extra ingredients took 194.2 ?s
+[01:53:39] [Render thread/INFO]: Registering search ingredient aliases...
+[01:53:39] [Render thread/INFO]: Registering search ingredient aliases took 333.8 ?s
+[01:53:39] [Render thread/INFO]: Registering categories...
+[01:53:39] [Render thread/INFO]: Registering categories: jei:minecraft took 13.77 milliseconds
+[01:53:39] [Render thread/INFO]: Registering categories: ae2:core took 11.79 milliseconds
+[01:53:39] [Render thread/INFO]: Registering categories: create:jei_plugin took 37.48 milliseconds
+[01:53:39] [Render thread/INFO]: Registering categories took 69.32 ms
+[01:53:39] [Render thread/INFO]: Registering vanilla category extensions...
+[01:53:39] [Render thread/INFO]: Registering vanilla category extensions took 2.901 ms
+[01:53:39] [Render thread/INFO]: Registering recipe catalysts...
+[01:53:39] [Render thread/INFO]: Registering recipe catalysts took 1.556 ms
+[01:53:39] [Render thread/INFO]: Building recipe registry...
+[01:53:40] [Render thread/INFO]: Building recipe registry took 19.61 ms
+[01:53:40] [Render thread/INFO]: Registering advanced plugins...
+[01:53:40] [Render thread/INFO]: Added recipe manager plugin: class appeng.integration.modules.jei.FacadeRegistryPlugin
+[01:53:40] [Render thread/INFO]: Registering advanced plugins took 1.269 ms
+[01:53:40] [Render thread/INFO]: Registering recipes...
+[01:53:40] [Render thread/INFO]: Registering recipes: jei:minecraft took 307.4 milliseconds
+[01:53:40] [Render thread/INFO]: Registering recipes: ae2:core took 25.88 milliseconds
+[01:53:40] [Render thread/INFO]: Registering recipes: create:jei_plugin took 172.7 milliseconds
+[01:53:40] [Render thread/INFO]: Registering recipes took 517.3 ms
+[01:53:40] [Render thread/INFO]: Registering recipes transfer handlers...
+[01:53:40] [Render thread/INFO]: Registering recipes transfer handlers took 5.141 ms
+[01:53:40] [Render thread/INFO]: Building runtime...
+[01:53:40] [Render thread/INFO]: Registering gui handlers...
+[01:53:40] [Render thread/INFO]: Registering gui handlers took 9.543 ms
+[01:53:40] [Render thread/INFO]: Registering Runtime...
+[01:53:40] [Render thread/INFO]: Starting JEI GUI
+[01:53:40] [Render thread/INFO]: Building ingredient list...
+[01:53:40] [Render thread/INFO]: Building ingredient list took 54.79 ms
+[01:53:40] [Render thread/INFO]: Building ingredient filter...
+[01:53:40] [Render thread/INFO]: Adding 4200 ingredients
+[01:53:41] [Render thread/INFO]: Added 4200 ingredients
+[01:53:41] [Render thread/INFO]: Building ingredient filter took 496.4 ms
+[01:53:41] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 665.6 milliseconds
+[01:53:41] [Render thread/INFO]: Registering Runtime took 666.0 ms
+[01:53:41] [Render thread/INFO]: Building runtime took 683.3 ms
+[01:53:41] [Render thread/INFO]: Sending Runtime...
+[01:53:41] [Render thread/INFO]: Ingredients are being removed at runtime: 9 net.minecraft.world.item.ItemStack
+[01:53:41] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_cube_gen ae2:debug_cube_gen
+[01:53:41] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_chunk_loader ae2:debug_chunk_loader
+[01:53:41] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_energy_gen ae2:debug_energy_gen
+[01:53:41] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_item_gen ae2:debug_item_gen
+[01:53:41] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 debug_phantom_node ae2:debug_phantom_node
+[01:53:41] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 EraserItem[debug_eraser] ae2:debug_eraser
+[01:53:41] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 MeteoritePlacerItem[debug_meteorite_placer] ae2:debug_meteorite_placer
+[01:53:41] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 ReplicatorCardItem[debug_replicator_card] ae2:debug_replicator_card
+[01:53:41] [Render thread/INFO]: Sending Runtime took 9.160 ms
+[01:53:41] [Render thread/INFO]: Starting JEI took 1.479 s
+[01:53:41] [Render thread/INFO]: Loaded 1219 advancements
+[01:53:41] [Render thread/INFO]: Started 2 worker threads
+[01:53:41] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:short_grass
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:leaves
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:leaves2
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:reeds
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:double_plant
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10024=
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10028=
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stonebrick
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:golden_rail
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_lava
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:heavy_core
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:fence
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:fence_gate
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log2
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log2
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stone_slab2
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:chiseled_copper
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_chiseled_copper
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_chiseled_copper
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_chiseled_copper
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_chiseled_copper
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_chiseled_copper
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_chiseled_copper
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_chiseled_copper
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_grate
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_grate
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_grate
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_grate
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_grate
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_grate
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_grate
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_grate
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:quartz_ore
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:snow_layer
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:lit_pumpkin
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:nether_brick
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:melon_block
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:end_bricks
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:hardened_clay
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stained_hardened_clay
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:magma
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:concrete
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:concrete_powder
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waterlily
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:grass_path
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:lit_furnace
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:noteblock
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:powered_repeater
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:powered_comparator
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:unpowered_repeater
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:unpowered_comparator
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wool
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:carpet
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:mob_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:chiseled_tuff
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_bricks
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:chiseled_tuff_bricks
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_stairs
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_slab
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_wall
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff_stairs
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff_slab
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff_wall
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_brick_stairs
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_brick_slab
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_brick_wall
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10713=tuff_stairs tuff_slab tuff_wall polished_tuff_stairs polished_tuff_slab polished_tuff_wall tuff_brick_stairs tuff_brick_slab tuff_brick_wall
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_door
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trapdoor
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:crafter
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10848=crafter
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10852=copper_bulb:lit=true waxed_copper_bulb:lit=true exposed_copper_bulb:lit=true waxed_exposed_copper_bulb:lit=true
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10854=copper_bulb:lit=false waxed_copper_bulb:lit=false exposed_copper_bulb:lit=false waxed_exposed_copper_bulb:lit=false
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10856=weathered_copper_bulb:lit=true waxed_weathered_copper_bulb:lit=true oxidized_copper_bulb:lit=true waxed_oxidized_copper_bulb:lit=true
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_bulb
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10858=weathered_copper_bulb:lit=false waxed_weathered_copper_bulb:lit=false oxidized_copper_bulb:lit=false waxed_oxidized_copper_bulb:lit=false
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_door
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_door
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_door
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_door
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_door
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_door
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_door
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_door
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_trapdoor
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_trapdoor
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_trapdoor
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_trapdoor
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_trapdoor
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_trapdoor
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_trapdoor
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_trapdoor
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10861=copper_door exposed_copper_door weathered_copper_door oxidized_copper_door waxed_copper_door waxed_exposed_copper_door waxed_weathered_copper_door waxed_oxidized_copper_door copper_trapdoor exposed_copper_trapdoor weathered_copper_trapdoor oxidized_copper_trapdoor waxed_copper_trapdoor waxed_exposed_copper_trapdoor waxed_weathered_copper_trapdoor waxed_oxidized_copper_trapdoor
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10868=trial_spawner:ominous=false:trial_spawner_state=active trial_spawner:ominous=false:trial_spawner_state=ejecting_reward trial_spawner:ominous=false:trial_spawner_state=waiting_for_players trial_spawner:ominous=false:trial_spawner_state=waiting_for_reward_ejection vault:ominous=false:vault_state=active vault:ominous=false:vault_state=ejecting vault:ominous=false:vault_state=unlocking
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10872=vault:ominous=false:vault_state=inactive vault:ominous=true:vault_state=inactive
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10873=trial_spawner:ominous=false:trial_spawner_state=cooldown trial_spawner:ominous=false:trial_spawner_state=inactive trial_spawner:ominous=true:trial_spawner_state=cooldown trial_spawner:ominous=true:trial_spawner_state=inactive
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10876=trial_spawner:ominous=true:trial_spawner_state=active trial_spawner:ominous=true:trial_spawner_state=ejecting_reward trial_spawner:ominous=true:trial_spawner_state=waiting_for_players trial_spawner:ominous=true:trial_spawner_state=waiting_for_reward_ejection vault:ominous=true:vault_state=active vault:ominous=true:vault_state=ejecting vault:ominous=true:vault_state=unlocking
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.20000=
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.30000=
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.30004=
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:slime
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:portal
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stained_glass
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stained_glass_pane
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:works
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_water
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60000=
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60028=
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60036=
+[01:53:41] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: biomesoplenty:shaders/block.properties
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: biomesoplenty:brimstone_bricks_slab
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: biomesoplenty:brimstone_bricks_stairs
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: biomesoplenty:brimstone_bricks_wall
+[01:53:41] [Render thread/INFO]: [OptiFine] [Shaders] Parsing item mappings: /shaders/item.properties
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_emerald
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_redstone
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_lapis
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_amethyst
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_quartz
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_netherite
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_diamond
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_gold
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_iron
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_copper
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid item ID mapping: item.45000=trim_emerald trim_redstone trim_lapis trim_amethyst trim_quartz trim_netherite trim_diamond trim_gold trim_iron trim_copper
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: mace
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: breeze_rod
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trial_key
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid item ID mapping: item.45112=trial_key
+[01:53:41] [Render thread/INFO]: [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Entity not found: entity_flame
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid entity ID mapping: entity.50088=entity_flame
+[01:53:41] [Render thread/WARN]: [OptiFine] Shaders: Entity not found: bogged
+[01:53:41] [Render thread/WARN]: [OptiFine] [Shaders] Invalid entity ID mapping: entity.50100=bogged
+[01:53:41] [Render thread/INFO]: [Shaders] Custom texture: texture.gbuffers.gaux4 = lib/textures/cloud-water.png
+[01:53:41] [Render thread/INFO]: [Shaders] Custom texture: texture.deferred.colortex3 = lib/textures/cloud-water.png
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: framemod8
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: isEyeInCave
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: inDry
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: inRainy
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: inSnowy
+[01:53:41] [Render thread/INFO]: [Shaders] Custom variable: difX
+[01:53:41] [Render thread/INFO]: [Shaders] Custom variable: difY
+[01:53:41] [Render thread/INFO]: [Shaders] Custom variable: difZ
+[01:53:41] [Render thread/INFO]: [Shaders] Custom variable: difSum
+[01:53:41] [Render thread/INFO]: [Shaders] Custom variable: moving
+[01:53:41] [Render thread/INFO]: [Shaders] Custom variable: moved
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: starter
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: frameTimeSmooth
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: eyeBrightnessM
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: eyeBrightnessM2
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: rainFactor
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: inNetherWastes
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: inCrimsonForest
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: inWarpedForest
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: inBasaltDeltas
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: inSoulValley
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: skyColorSmooth
+[01:53:41] [Render thread/INFO]: [Shaders] Custom uniform: maxBlindnessDarkness
+[01:53:41] [Render thread/WARN]: [Shaders] net.optifine.expr.ParseException: Model variable not found: darknessFactor
+[01:53:41] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:41] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:41] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:41] [Render thread/INFO]: [Shaders] Program loaded: world0/shadow
+[01:53:41] [Render thread/INFO]: [Shaders] Program disabled: world0/shadowcomp
+[01:53:41] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:41] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:41] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:41] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_basic
+[01:53:41] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:41] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:41] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:42] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_line
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:42] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_textured
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:42] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_skybasic
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:42] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_skytextured
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:42] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_clouds
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:42] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_terrain
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:42] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_damagedblock
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:42] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_block
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:42] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_beaconbeam
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:43] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:43] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_entities
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:43] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:43] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_entities_glowing
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:43] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:43] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_armor_glint
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:43] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:43] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_spidereyes
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:43] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:43] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_hand
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:43] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:43] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_weather
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:43] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:43] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[01:53:43] [Render thread/INFO]: [Shaders] Program loaded: world0/deferred1
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:43] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:43] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_water
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:43] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:43] [Render thread/INFO]: [Shaders] Program loaded: world0/composite
+[01:53:43] [Render thread/INFO]: [Shaders] Program disabled: world0/composite2
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:43] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:43] [Render thread/INFO]: [Shaders] Program loaded: world0/composite3
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:43] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:43] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[01:53:43] [Render thread/INFO]: [Shaders] Program loaded: world0/composite4
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:43] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:43] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:44] [Render thread/INFO]: [Shaders] Program loaded: world0/composite5
+[01:53:44] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:44] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:44] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:44] [Render thread/INFO]: [Shaders] colortex0 format: R11F_G11F_B10F
+[01:53:44] [Render thread/INFO]: [Shaders] colortex2 format: RGBA16F
+[01:53:44] [Render thread/INFO]: [Shaders] colortex3 format: RGBA8
+[01:53:44] [Render thread/INFO]: [Shaders] colortex4 format: R8
+[01:53:44] [Render thread/INFO]: [Shaders] colortex5 format: RGBA8_SNORM
+[01:53:44] [Render thread/INFO]: [Shaders] colortex6 format: RGBA8
+[01:53:44] [Render thread/INFO]: [Shaders] colortex7 format: RGBA16F
+[01:53:44] [Render thread/INFO]: [Shaders] colortex2 clear disabled
+[01:53:44] [Render thread/INFO]: [Shaders] colortex4 clear disabled
+[01:53:44] [Render thread/INFO]: [Shaders] colortex5 clear disabled
+[01:53:44] [Render thread/INFO]: [Shaders] colortex7 clear disabled
+[01:53:44] [Render thread/INFO]: [Shaders] Noise texture enabled
+[01:53:44] [Render thread/INFO]: [Shaders] Noise texture resolution: 128
+[01:53:44] [Render thread/INFO]: [Shaders] Hardware shadow filtering enabled.
+[01:53:44] [Render thread/INFO]: [Shaders] Shadow distance render mul: 1.0
+[01:53:44] [Render thread/INFO]: [Shaders] Dryness halflife: 300.0
+[01:53:44] [Render thread/INFO]: [Shaders] Wetness halflife: 300.0
+[01:53:44] [Render thread/INFO]: [Shaders] AO Level: 1.0
+[01:53:44] [Render thread/INFO]: [Shaders] colortex3 mipmap enabled
+[01:53:44] [Render thread/INFO]: [Shaders] Program loaded: world0/composite6
+[01:53:44] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:44] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:44] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:44] [Render thread/INFO]: [Shaders] Program loaded: world0/composite7
+[01:53:44] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[01:53:44] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[01:53:44] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[01:53:44] [Render thread/INFO]: [Shaders] colortex0 format: R11F_G11F_B10F
+[01:53:44] [Render thread/INFO]: [Shaders] colortex2 format: RGBA16F
+[01:53:44] [Render thread/INFO]: [Shaders] colortex3 format: RGBA8
+[01:53:44] [Render thread/INFO]: [Shaders] colortex4 format: R8
+[01:53:44] [Render thread/INFO]: [Shaders] colortex5 format: RGBA8_SNORM
+[01:53:44] [Render thread/INFO]: [Shaders] colortex6 format: RGBA8
+[01:53:44] [Render thread/INFO]: [Shaders] colortex7 format: RGBA16F
+[01:53:44] [Render thread/INFO]: [Shaders] colortex2 clear disabled
+[01:53:44] [Render thread/INFO]: [Shaders] colortex4 clear disabled
+[01:53:44] [Render thread/INFO]: [Shaders] colortex5 clear disabled
+[01:53:44] [Render thread/INFO]: [Shaders] colortex7 clear disabled
+[01:53:44] [Render thread/INFO]: [Shaders] Noise texture enabled
+[01:53:44] [Render thread/INFO]: [Shaders] Noise texture resolution: 128
+[01:53:44] [Render thread/INFO]: [Shaders] Hardware shadow filtering enabled.
+[01:53:44] [Render thread/INFO]: [Shaders] Shadow distance render mul: 1.0
+[01:53:44] [Render thread/INFO]: [Shaders] Dryness halflife: 300.0
+[01:53:44] [Render thread/INFO]: [Shaders] Wetness halflife: 300.0
+[01:53:44] [Render thread/INFO]: [Shaders] AO Level: 1.0
+[01:53:44] [Render thread/INFO]: [Shaders] Program loaded: world0/final
+[01:53:44] [Render thread/INFO]: [Shaders] usedColorBuffers: 10
+[01:53:44] [Render thread/INFO]: [Shaders] usedDepthBuffers: 3
+[01:53:44] [Render thread/INFO]: [Shaders] usedShadowColorBuffers: 2
+[01:53:44] [Render thread/INFO]: [Shaders] usedShadowDepthBuffers: 2
+[01:53:44] [Render thread/INFO]: [Shaders] usedColorAttachs: 10
+[01:53:44] [Render thread/INFO]: [Shaders] usedDrawBuffers: 8
+[01:53:44] [Render thread/INFO]: [Shaders] bindImageTextures: false
+[01:53:44] [Render thread/INFO]: [Shaders] Framebuffer created: dfb
+[01:53:44] [Render thread/INFO]: [Shaders] Framebuffer created: sfb
+[01:53:44] [Render thread/INFO]: [Shaders] Reset model renderers
+[01:53:44] [Render thread/INFO]: [Shaders] Reset world renderers
+[01:53:45] [Render thread/INFO]: [System] [CHAT] §eJourneyMap:§f Нажмите [§bО§f].
+[01:53:54] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 1.0
+[01:53:55] [Render thread/INFO]: can use texture size:TEXTURE_272, middle time: 0.7
+[01:59:33] [Render thread/INFO]: [System] [CHAT] LagutArt получил достижение «[Латунный век]»
+[02:17:38] [Render thread/INFO]: [System] [CHAT] LagutArt получил достижение «[Пара гигантов]»
+[02:28:44] [Render thread/INFO]: [System] [CHAT] LagutArt достиг цели «[Только вперёд!]»
+[02:43:38] [Render thread/INFO]: Loaded 1220 advancements
+[02:44:23] [Render thread/INFO]: Loaded 1236 advancements
+[02:55:05] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[02:57:00] [Render thread/INFO]: Loaded 1240 advancements
+[02:58:03] [Render thread/INFO]: Loaded 1240 advancements
+[02:58:12] [Render thread/WARN]: Received passengers for unknown entity
+[02:58:31] [Render thread/WARN]: Received passengers for unknown entity
+[02:58:42] [Render thread/WARN]: Received passengers for unknown entity
+[02:59:05] [Render thread/WARN]: Received passengers for unknown entity
+[02:59:07] [Render thread/WARN]: Received passengers for unknown entity
+[02:59:20] [Render thread/WARN]: Received passengers for unknown entity
+[02:59:27] [Render thread/WARN]: Received passengers for unknown entity
+[03:10:27] [Render thread/INFO]: Loaded 1240 advancements
+[03:15:40] [Render thread/INFO]: [Shaders] Uninit
+[03:15:40] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:short_grass
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:leaves
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:leaves2
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:reeds
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:double_plant
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10024=
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10028=
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stonebrick
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:golden_rail
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_lava
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:heavy_core
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:fence
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:fence_gate
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log2
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log2
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stone_slab2
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:chiseled_copper
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_chiseled_copper
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_chiseled_copper
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_chiseled_copper
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_chiseled_copper
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_chiseled_copper
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_chiseled_copper
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_chiseled_copper
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_grate
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_grate
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_grate
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_grate
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_grate
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_grate
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_grate
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_grate
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:quartz_ore
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:snow_layer
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:lit_pumpkin
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:nether_brick
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:melon_block
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:end_bricks
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:hardened_clay
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stained_hardened_clay
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:magma
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:concrete
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:concrete_powder
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waterlily
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:grass_path
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:lit_furnace
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:noteblock
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:powered_repeater
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:powered_comparator
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:unpowered_repeater
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:unpowered_comparator
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wool
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:carpet
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:mob_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:chiseled_tuff
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_bricks
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:chiseled_tuff_bricks
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_stairs
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_slab
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_wall
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff_stairs
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff_slab
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff_wall
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_brick_stairs
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_brick_slab
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_brick_wall
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10713=tuff_stairs tuff_slab tuff_wall polished_tuff_stairs polished_tuff_slab polished_tuff_wall tuff_brick_stairs tuff_brick_slab tuff_brick_wall
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_door
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trapdoor
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:crafter
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10848=crafter
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10852=copper_bulb:lit=true waxed_copper_bulb:lit=true exposed_copper_bulb:lit=true waxed_exposed_copper_bulb:lit=true
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10854=copper_bulb:lit=false waxed_copper_bulb:lit=false exposed_copper_bulb:lit=false waxed_exposed_copper_bulb:lit=false
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10856=weathered_copper_bulb:lit=true waxed_weathered_copper_bulb:lit=true oxidized_copper_bulb:lit=true waxed_oxidized_copper_bulb:lit=true
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_bulb
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10858=weathered_copper_bulb:lit=false waxed_weathered_copper_bulb:lit=false oxidized_copper_bulb:lit=false waxed_oxidized_copper_bulb:lit=false
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_door
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_door
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_door
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_door
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_door
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_door
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_door
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_door
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_trapdoor
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_trapdoor
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_trapdoor
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_trapdoor
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_trapdoor
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_trapdoor
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_trapdoor
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_trapdoor
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10861=copper_door exposed_copper_door weathered_copper_door oxidized_copper_door waxed_copper_door waxed_exposed_copper_door waxed_weathered_copper_door waxed_oxidized_copper_door copper_trapdoor exposed_copper_trapdoor weathered_copper_trapdoor oxidized_copper_trapdoor waxed_copper_trapdoor waxed_exposed_copper_trapdoor waxed_weathered_copper_trapdoor waxed_oxidized_copper_trapdoor
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10868=trial_spawner:ominous=false:trial_spawner_state=active trial_spawner:ominous=false:trial_spawner_state=ejecting_reward trial_spawner:ominous=false:trial_spawner_state=waiting_for_players trial_spawner:ominous=false:trial_spawner_state=waiting_for_reward_ejection vault:ominous=false:vault_state=active vault:ominous=false:vault_state=ejecting vault:ominous=false:vault_state=unlocking
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10872=vault:ominous=false:vault_state=inactive vault:ominous=true:vault_state=inactive
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10873=trial_spawner:ominous=false:trial_spawner_state=cooldown trial_spawner:ominous=false:trial_spawner_state=inactive trial_spawner:ominous=true:trial_spawner_state=cooldown trial_spawner:ominous=true:trial_spawner_state=inactive
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10876=trial_spawner:ominous=true:trial_spawner_state=active trial_spawner:ominous=true:trial_spawner_state=ejecting_reward trial_spawner:ominous=true:trial_spawner_state=waiting_for_players trial_spawner:ominous=true:trial_spawner_state=waiting_for_reward_ejection vault:ominous=true:vault_state=active vault:ominous=true:vault_state=ejecting vault:ominous=true:vault_state=unlocking
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.20000=
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.30000=
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.30004=
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:slime
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:portal
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stained_glass
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stained_glass_pane
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:works
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_water
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60000=
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60028=
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60036=
+[03:15:40] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: biomesoplenty:shaders/block.properties
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: biomesoplenty:brimstone_bricks_slab
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: biomesoplenty:brimstone_bricks_stairs
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: biomesoplenty:brimstone_bricks_wall
+[03:15:40] [Render thread/INFO]: [OptiFine] [Shaders] Parsing item mappings: /shaders/item.properties
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_emerald
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_redstone
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_lapis
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_amethyst
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_quartz
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_netherite
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_diamond
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_gold
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_iron
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_copper
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid item ID mapping: item.45000=trim_emerald trim_redstone trim_lapis trim_amethyst trim_quartz trim_netherite trim_diamond trim_gold trim_iron trim_copper
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: mace
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: breeze_rod
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trial_key
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid item ID mapping: item.45112=trial_key
+[03:15:40] [Render thread/INFO]: [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Entity not found: entity_flame
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid entity ID mapping: entity.50088=entity_flame
+[03:15:40] [Render thread/WARN]: [OptiFine] Shaders: Entity not found: bogged
+[03:15:40] [Render thread/WARN]: [OptiFine] [Shaders] Invalid entity ID mapping: entity.50100=bogged
+[03:15:40] [Render thread/INFO]: [Shaders] Custom texture: texture.gbuffers.gaux4 = lib/textures/cloud-water.png
+[03:15:40] [Render thread/INFO]: [Shaders] Custom texture: texture.deferred.colortex3 = lib/textures/cloud-water.png
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: framemod8
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: isEyeInCave
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: inDry
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: inRainy
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: inSnowy
+[03:15:40] [Render thread/INFO]: [Shaders] Custom variable: difX
+[03:15:40] [Render thread/INFO]: [Shaders] Custom variable: difY
+[03:15:40] [Render thread/INFO]: [Shaders] Custom variable: difZ
+[03:15:40] [Render thread/INFO]: [Shaders] Custom variable: difSum
+[03:15:40] [Render thread/INFO]: [Shaders] Custom variable: moving
+[03:15:40] [Render thread/INFO]: [Shaders] Custom variable: moved
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: starter
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: frameTimeSmooth
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: eyeBrightnessM
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: eyeBrightnessM2
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: rainFactor
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: inNetherWastes
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: inCrimsonForest
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: inWarpedForest
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: inBasaltDeltas
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: inSoulValley
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: skyColorSmooth
+[03:15:40] [Render thread/INFO]: [Shaders] Custom uniform: maxBlindnessDarkness
+[03:15:40] [Render thread/WARN]: [Shaders] net.optifine.expr.ParseException: Model variable not found: darknessFactor
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:40] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:40] [Render thread/INFO]: [Shaders] Program loaded: world-1/shadow
+[03:15:40] [Render thread/INFO]: [Shaders] Program disabled: world-1/shadowcomp
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:40] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:40] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_basic
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:40] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:40] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_line
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:40] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:40] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_textured
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:40] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:40] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_skybasic
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:40] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:40] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_skytextured
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:40] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:40] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_clouds
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:40] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:40] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_terrain
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:40] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:40] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_damagedblock
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:40] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:40] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_block
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:40] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:40] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:40] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_beaconbeam
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:41] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:41] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_entities
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:41] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:41] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_entities_glowing
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:41] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:41] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_armor_glint
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:41] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:41] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_spidereyes
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:41] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:41] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_hand
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:41] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:41] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_weather
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:41] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:41] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[03:15:41] [Render thread/INFO]: [Shaders] Program loaded: world-1/deferred1
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:41] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:41] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:41] [Render thread/INFO]: [Shaders] Program loaded: world-1/gbuffers_water
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:42] [Render thread/INFO]: [Shaders] Program loaded: world-1/composite
+[03:15:42] [Render thread/INFO]: [Shaders] Program disabled: world-1/composite2
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:42] [Render thread/INFO]: [Shaders] Program loaded: world-1/composite3
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:42] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[03:15:42] [Render thread/INFO]: [Shaders] Program loaded: world-1/composite4
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:42] [Render thread/INFO]: [Shaders] Program loaded: world-1/composite5
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:42] [Render thread/INFO]: [Shaders] colortex0 format: R11F_G11F_B10F
+[03:15:42] [Render thread/INFO]: [Shaders] colortex2 format: RGBA16F
+[03:15:42] [Render thread/INFO]: [Shaders] colortex3 format: RGBA8
+[03:15:42] [Render thread/INFO]: [Shaders] colortex4 format: R8
+[03:15:42] [Render thread/INFO]: [Shaders] colortex5 format: RGBA8_SNORM
+[03:15:42] [Render thread/INFO]: [Shaders] colortex6 format: RGBA8
+[03:15:42] [Render thread/INFO]: [Shaders] colortex7 format: RGBA16F
+[03:15:42] [Render thread/INFO]: [Shaders] colortex2 clear disabled
+[03:15:42] [Render thread/INFO]: [Shaders] colortex4 clear disabled
+[03:15:42] [Render thread/INFO]: [Shaders] colortex5 clear disabled
+[03:15:42] [Render thread/INFO]: [Shaders] colortex7 clear disabled
+[03:15:42] [Render thread/INFO]: [Shaders] Noise texture enabled
+[03:15:42] [Render thread/INFO]: [Shaders] Noise texture resolution: 128
+[03:15:42] [Render thread/INFO]: [Shaders] Hardware shadow filtering enabled.
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow distance render mul: 1.0
+[03:15:42] [Render thread/INFO]: [Shaders] Dryness halflife: 300.0
+[03:15:42] [Render thread/INFO]: [Shaders] Wetness halflife: 300.0
+[03:15:42] [Render thread/INFO]: [Shaders] AO Level: 1.0
+[03:15:42] [Render thread/INFO]: [Shaders] colortex3 mipmap enabled
+[03:15:42] [Render thread/INFO]: [Shaders] Program loaded: world-1/composite6
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:42] [Render thread/INFO]: [Shaders] Program loaded: world-1/composite7
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:15:42] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:15:42] [Render thread/INFO]: [Shaders] colortex0 format: R11F_G11F_B10F
+[03:15:42] [Render thread/INFO]: [Shaders] colortex2 format: RGBA16F
+[03:15:42] [Render thread/INFO]: [Shaders] colortex3 format: RGBA8
+[03:15:42] [Render thread/INFO]: [Shaders] colortex4 format: R8
+[03:15:42] [Render thread/INFO]: [Shaders] colortex5 format: RGBA8_SNORM
+[03:15:42] [Render thread/INFO]: [Shaders] colortex6 format: RGBA8
+[03:15:42] [Render thread/INFO]: [Shaders] colortex7 format: RGBA16F
+[03:15:42] [Render thread/INFO]: [Shaders] colortex2 clear disabled
+[03:15:42] [Render thread/INFO]: [Shaders] colortex4 clear disabled
+[03:15:42] [Render thread/INFO]: [Shaders] colortex5 clear disabled
+[03:15:42] [Render thread/INFO]: [Shaders] colortex7 clear disabled
+[03:15:42] [Render thread/INFO]: [Shaders] Noise texture enabled
+[03:15:42] [Render thread/INFO]: [Shaders] Noise texture resolution: 128
+[03:15:42] [Render thread/INFO]: [Shaders] Hardware shadow filtering enabled.
+[03:15:42] [Render thread/INFO]: [Shaders] Shadow distance render mul: 1.0
+[03:15:42] [Render thread/INFO]: [Shaders] Dryness halflife: 300.0
+[03:15:42] [Render thread/INFO]: [Shaders] Wetness halflife: 300.0
+[03:15:42] [Render thread/INFO]: [Shaders] AO Level: 1.0
+[03:15:42] [Render thread/INFO]: [Shaders] Program loaded: world-1/final
+[03:15:42] [Render thread/INFO]: [Shaders] usedColorBuffers: 10
+[03:15:42] [Render thread/INFO]: [Shaders] usedDepthBuffers: 3
+[03:15:42] [Render thread/INFO]: [Shaders] usedShadowColorBuffers: 2
+[03:15:42] [Render thread/INFO]: [Shaders] usedShadowDepthBuffers: 2
+[03:15:42] [Render thread/INFO]: [Shaders] usedColorAttachs: 10
+[03:15:42] [Render thread/INFO]: [Shaders] usedDrawBuffers: 8
+[03:15:42] [Render thread/INFO]: [Shaders] bindImageTextures: false
+[03:15:42] [Render thread/INFO]: [Shaders] Framebuffer created: dfb
+[03:15:42] [Render thread/INFO]: [Shaders] Framebuffer created: sfb
+[03:15:42] [Render thread/INFO]: [Shaders] Reset model renderers
+[03:15:42] [Render thread/INFO]: [Shaders] Reset world renderers
+[03:15:48] [Render thread/WARN]: Received passengers for unknown entity
+[03:16:18] [Render thread/WARN]: Received passengers for unknown entity
+[03:16:24] [Render thread/WARN]: Received passengers for unknown entity
+[03:16:51] [Render thread/WARN]: Received passengers for unknown entity
+[03:17:40] [Render thread/INFO]: [System] [CHAT] alex_pyslar получил достижение «[Горячая штучка]»
+[03:17:40] [Render thread/INFO]: Loaded 1240 advancements
+[03:17:49] [Render thread/INFO]: [System] [CHAT] alex_pyslar упал в лаву, убегая от Гаст
+[03:17:50] [Render thread/INFO]: [Shaders] Uninit
+[03:17:50] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:short_grass
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:leaves
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:leaves2
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:reeds
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:double_plant
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10024=
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10028=
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stonebrick
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:golden_rail
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_lava
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:heavy_core
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:monster_egg
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:fence
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:fence_gate
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log2
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:planks
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_slab
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:log2
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stone_slab2
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:chiseled_copper
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_chiseled_copper
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_chiseled_copper
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_chiseled_copper
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_chiseled_copper
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_chiseled_copper
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_chiseled_copper
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_chiseled_copper
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_grate
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_grate
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_grate
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_grate
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_grate
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_grate
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_grate
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_grate
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:quartz_ore
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:snow_layer
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:lit_pumpkin
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:nether_brick
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:melon_block
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:end_bricks
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:hardened_clay
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stained_hardened_clay
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:magma
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:concrete
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:concrete_powder
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waterlily
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:grass_path
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:lit_furnace
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:noteblock
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:powered_repeater
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:powered_comparator
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:unpowered_repeater
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:unpowered_comparator
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wool
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:carpet
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:mob_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:chiseled_tuff
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_bricks
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:chiseled_tuff_bricks
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_stairs
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_slab
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_wall
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff_stairs
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff_slab
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:polished_tuff_wall
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_brick_stairs
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_brick_slab
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:tuff_brick_wall
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10713=tuff_stairs tuff_slab tuff_wall polished_tuff_stairs polished_tuff_slab polished_tuff_wall tuff_brick_stairs tuff_brick_slab tuff_brick_wall
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:wooden_door
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trapdoor
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:crafter
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10848=crafter
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10852=copper_bulb:lit=true waxed_copper_bulb:lit=true exposed_copper_bulb:lit=true waxed_exposed_copper_bulb:lit=true
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10854=copper_bulb:lit=false waxed_copper_bulb:lit=false exposed_copper_bulb:lit=false waxed_exposed_copper_bulb:lit=false
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10856=weathered_copper_bulb:lit=true waxed_weathered_copper_bulb:lit=true oxidized_copper_bulb:lit=true waxed_oxidized_copper_bulb:lit=true
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_bulb
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10858=weathered_copper_bulb:lit=false waxed_weathered_copper_bulb:lit=false oxidized_copper_bulb:lit=false waxed_oxidized_copper_bulb:lit=false
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_door
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_door
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_door
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_door
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_door
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_door
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_door
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_door
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:copper_trapdoor
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:exposed_copper_trapdoor
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:weathered_copper_trapdoor
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:oxidized_copper_trapdoor
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_copper_trapdoor
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_exposed_copper_trapdoor
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_weathered_copper_trapdoor
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:waxed_oxidized_copper_trapdoor
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10861=copper_door exposed_copper_door weathered_copper_door oxidized_copper_door waxed_copper_door waxed_exposed_copper_door waxed_weathered_copper_door waxed_oxidized_copper_door copper_trapdoor exposed_copper_trapdoor weathered_copper_trapdoor oxidized_copper_trapdoor waxed_copper_trapdoor waxed_exposed_copper_trapdoor waxed_weathered_copper_trapdoor waxed_oxidized_copper_trapdoor
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10868=trial_spawner:ominous=false:trial_spawner_state=active trial_spawner:ominous=false:trial_spawner_state=ejecting_reward trial_spawner:ominous=false:trial_spawner_state=waiting_for_players trial_spawner:ominous=false:trial_spawner_state=waiting_for_reward_ejection vault:ominous=false:vault_state=active vault:ominous=false:vault_state=ejecting vault:ominous=false:vault_state=unlocking
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10872=vault:ominous=false:vault_state=inactive vault:ominous=true:vault_state=inactive
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10873=trial_spawner:ominous=false:trial_spawner_state=cooldown trial_spawner:ominous=false:trial_spawner_state=inactive trial_spawner:ominous=true:trial_spawner_state=cooldown trial_spawner:ominous=true:trial_spawner_state=inactive
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:trial_spawner
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:vault
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10876=trial_spawner:ominous=true:trial_spawner_state=active trial_spawner:ominous=true:trial_spawner_state=ejecting_reward trial_spawner:ominous=true:trial_spawner_state=waiting_for_players trial_spawner:ominous=true:trial_spawner_state=waiting_for_reward_ejection vault:ominous=true:vault_state=active vault:ominous=true:vault_state=ejecting vault:ominous=true:vault_state=unlocking
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.20000=
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.30000=
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.30004=
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:slime
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:portal
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stained_glass
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:stained_glass_pane
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:works
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_water
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60000=
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60028=
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60036=
+[03:17:50] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: biomesoplenty:shaders/block.properties
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: biomesoplenty:brimstone_bricks_slab
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: biomesoplenty:brimstone_bricks_stairs
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: biomesoplenty:brimstone_bricks_wall
+[03:17:50] [Render thread/INFO]: [OptiFine] [Shaders] Parsing item mappings: /shaders/item.properties
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_emerald
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_redstone
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_lapis
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_amethyst
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_quartz
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_netherite
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_diamond
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_gold
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_iron
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trim_copper
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid item ID mapping: item.45000=trim_emerald trim_redstone trim_lapis trim_amethyst trim_quartz trim_netherite trim_diamond trim_gold trim_iron trim_copper
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: mace
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: breeze_rod
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Item not found: trial_key
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid item ID mapping: item.45112=trial_key
+[03:17:50] [Render thread/INFO]: [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Entity not found: entity_flame
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid entity ID mapping: entity.50088=entity_flame
+[03:17:50] [Render thread/WARN]: [OptiFine] Shaders: Entity not found: bogged
+[03:17:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid entity ID mapping: entity.50100=bogged
+[03:17:50] [Render thread/INFO]: [Shaders] Custom texture: texture.gbuffers.gaux4 = lib/textures/cloud-water.png
+[03:17:50] [Render thread/INFO]: [Shaders] Custom texture: texture.deferred.colortex3 = lib/textures/cloud-water.png
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: framemod8
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: isEyeInCave
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: inDry
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: inRainy
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: inSnowy
+[03:17:50] [Render thread/INFO]: [Shaders] Custom variable: difX
+[03:17:50] [Render thread/INFO]: [Shaders] Custom variable: difY
+[03:17:50] [Render thread/INFO]: [Shaders] Custom variable: difZ
+[03:17:50] [Render thread/INFO]: [Shaders] Custom variable: difSum
+[03:17:50] [Render thread/INFO]: [Shaders] Custom variable: moving
+[03:17:50] [Render thread/INFO]: [Shaders] Custom variable: moved
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: starter
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: frameTimeSmooth
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: eyeBrightnessM
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: eyeBrightnessM2
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: rainFactor
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: inNetherWastes
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: inCrimsonForest
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: inWarpedForest
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: inBasaltDeltas
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: inSoulValley
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: skyColorSmooth
+[03:17:50] [Render thread/INFO]: [Shaders] Custom uniform: maxBlindnessDarkness
+[03:17:50] [Render thread/WARN]: [Shaders] net.optifine.expr.ParseException: Model variable not found: darknessFactor
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:50] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:50] [Render thread/INFO]: [Shaders] Program loaded: world0/shadow
+[03:17:50] [Render thread/INFO]: [Shaders] Program disabled: world0/shadowcomp
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:50] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:50] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_basic
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:50] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:50] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_line
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:50] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:50] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_textured
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:50] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:50] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_skybasic
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:50] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:50] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_skytextured
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:50] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:50] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_clouds
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:50] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:50] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_terrain
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:50] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:50] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_damagedblock
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:50] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:50] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_block
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:50] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:50] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:50] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_beaconbeam
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:51] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:51] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_entities
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:51] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:51] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_entities_glowing
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:51] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:51] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_armor_glint
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:51] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:51] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_spidereyes
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:51] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:51] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_hand
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:51] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:51] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_weather
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:51] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:51] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:51] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[03:17:51] [Render thread/INFO]: [Shaders] Program loaded: world0/deferred1
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:52] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:52] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_water
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:52] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:52] [Render thread/INFO]: [Shaders] Program loaded: world0/composite
+[03:17:52] [Render thread/INFO]: [Shaders] Program disabled: world0/composite2
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:52] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:52] [Render thread/INFO]: [Shaders] Program loaded: world0/composite3
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:52] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:52] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[03:17:52] [Render thread/INFO]: [Shaders] Program loaded: world0/composite4
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:52] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:52] [Render thread/INFO]: [Shaders] Program loaded: world0/composite5
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:52] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:52] [Render thread/INFO]: [Shaders] colortex0 format: R11F_G11F_B10F
+[03:17:52] [Render thread/INFO]: [Shaders] colortex2 format: RGBA16F
+[03:17:52] [Render thread/INFO]: [Shaders] colortex3 format: RGBA8
+[03:17:52] [Render thread/INFO]: [Shaders] colortex4 format: R8
+[03:17:52] [Render thread/INFO]: [Shaders] colortex5 format: RGBA8_SNORM
+[03:17:52] [Render thread/INFO]: [Shaders] colortex6 format: RGBA8
+[03:17:52] [Render thread/INFO]: [Shaders] colortex7 format: RGBA16F
+[03:17:52] [Render thread/INFO]: [Shaders] colortex2 clear disabled
+[03:17:52] [Render thread/INFO]: [Shaders] colortex4 clear disabled
+[03:17:52] [Render thread/INFO]: [Shaders] colortex5 clear disabled
+[03:17:52] [Render thread/INFO]: [Shaders] colortex7 clear disabled
+[03:17:52] [Render thread/INFO]: [Shaders] Noise texture enabled
+[03:17:52] [Render thread/INFO]: [Shaders] Noise texture resolution: 128
+[03:17:52] [Render thread/INFO]: [Shaders] Hardware shadow filtering enabled.
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow distance render mul: 1.0
+[03:17:52] [Render thread/INFO]: [Shaders] Dryness halflife: 300.0
+[03:17:52] [Render thread/INFO]: [Shaders] Wetness halflife: 300.0
+[03:17:52] [Render thread/INFO]: [Shaders] AO Level: 1.0
+[03:17:52] [Render thread/INFO]: [Shaders] colortex3 mipmap enabled
+[03:17:52] [Render thread/INFO]: [Shaders] Program loaded: world0/composite6
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:52] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:52] [Render thread/INFO]: [Shaders] Program loaded: world0/composite7
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[03:17:52] [Render thread/INFO]: [Shaders] Sun path rotation: -40.0
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[03:17:52] [Render thread/INFO]: [Shaders] colortex0 format: R11F_G11F_B10F
+[03:17:52] [Render thread/INFO]: [Shaders] colortex2 format: RGBA16F
+[03:17:52] [Render thread/INFO]: [Shaders] colortex3 format: RGBA8
+[03:17:52] [Render thread/INFO]: [Shaders] colortex4 format: R8
+[03:17:52] [Render thread/INFO]: [Shaders] colortex5 format: RGBA8_SNORM
+[03:17:52] [Render thread/INFO]: [Shaders] colortex6 format: RGBA8
+[03:17:52] [Render thread/INFO]: [Shaders] colortex7 format: RGBA16F
+[03:17:52] [Render thread/INFO]: [Shaders] colortex2 clear disabled
+[03:17:52] [Render thread/INFO]: [Shaders] colortex4 clear disabled
+[03:17:52] [Render thread/INFO]: [Shaders] colortex5 clear disabled
+[03:17:52] [Render thread/INFO]: [Shaders] colortex7 clear disabled
+[03:17:52] [Render thread/INFO]: [Shaders] Noise texture enabled
+[03:17:52] [Render thread/INFO]: [Shaders] Noise texture resolution: 128
+[03:17:52] [Render thread/INFO]: [Shaders] Hardware shadow filtering enabled.
+[03:17:52] [Render thread/INFO]: [Shaders] Shadow distance render mul: 1.0
+[03:17:52] [Render thread/INFO]: [Shaders] Dryness halflife: 300.0
+[03:17:52] [Render thread/INFO]: [Shaders] Wetness halflife: 300.0
+[03:17:52] [Render thread/INFO]: [Shaders] AO Level: 1.0
+[03:17:52] [Render thread/INFO]: [Shaders] Program loaded: world0/final
+[03:17:52] [Render thread/INFO]: [Shaders] usedColorBuffers: 10
+[03:17:52] [Render thread/INFO]: [Shaders] usedDepthBuffers: 3
+[03:17:52] [Render thread/INFO]: [Shaders] usedShadowColorBuffers: 2
+[03:17:52] [Render thread/INFO]: [Shaders] usedShadowDepthBuffers: 2
+[03:17:52] [Render thread/INFO]: [Shaders] usedColorAttachs: 10
+[03:17:52] [Render thread/INFO]: [Shaders] usedDrawBuffers: 8
+[03:17:52] [Render thread/INFO]: [Shaders] bindImageTextures: false
+[03:17:52] [Render thread/INFO]: [Shaders] Framebuffer created: dfb
+[03:17:52] [Render thread/INFO]: [Shaders] Framebuffer created: sfb
+[03:17:52] [Render thread/INFO]: [Shaders] Reset model renderers
+[03:17:52] [Render thread/INFO]: [Shaders] Reset world renderers
+[03:23:18] [Render thread/INFO]: [System] [CHAT] LagutArt достиг цели «[Механический ужин]»
+[03:23:41] [Render thread/INFO]: Loaded 1244 advancements
+[03:25:45] [Render thread/INFO]: Loaded 1246 advancements
+[03:31:30] [Render thread/INFO]: Loaded 1247 advancements
+[03:32:25] [Render thread/INFO]: Loaded 1248 advancements
+[03:32:45] [Render thread/INFO]: Loaded 1249 advancements
+[03:34:39] [Render thread/INFO]: [System] [CHAT] LagutArt получил достижение «[Горячая штучка]»
+[03:45:12] [Render thread/INFO]: Loaded 1250 advancements
+[03:45:40] [Render thread/INFO]: Loaded 1253 advancements
+[03:52:48] [Render thread/INFO]: [System] [CHAT] alex_pyslar получил достижение «[Сложные любопытства]»
+[03:52:48] [Render thread/INFO]: Loaded 1255 advancements
+[03:52:54] [Render thread/INFO]: [System] [CHAT] LagutArt получил достижение «[Сложные любопытства]»
+[04:08:39] [Render thread/INFO]: [System] [CHAT] alex_pyslar получил достижение «[Латунный век]»
+[04:08:39] [Render thread/INFO]: Loaded 1255 advancements
+[04:08:46] [Render thread/INFO]: Loaded 1267 advancements
+[04:10:27] [Render thread/INFO]: Loaded 1271 advancements
+[04:10:28] [Render thread/INFO]: Loaded 1272 advancements
+[04:10:30] [Render thread/INFO]: Loaded 1288 advancements
+[04:40:36] [Render thread/INFO]: Loaded 1290 advancements
+[04:46:13] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:15] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:17] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:19] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:26] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:28] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:29] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:29] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:29] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:30] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:30] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:30] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:30] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:30] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:31] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:33] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:54] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:46:56] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:47:11] [Render thread/INFO]: [System] [CHAT] Точка возрождения установлена
+[04:48:03] [Render thread/INFO]: Loaded 1291 advancements
+[04:56:26] [Render thread/INFO]: Loaded 1293 advancements
+[05:39:39] [Render thread/INFO]: Loaded 1293 advancements
+[05:41:03] [Render thread/INFO]: Loaded 1293 advancements
+[05:44:01] [Render thread/INFO]: Loaded 1293 advancements
+[05:46:05] [Render thread/INFO]: Loaded 1293 advancements
+[05:48:05] [Render thread/INFO]: Loaded 1293 advancements
+[05:48:07] [Render thread/INFO]: Loaded 1293 advancements
+[05:48:24] [Render thread/WARN]: Received passengers for unknown entity
+[05:49:41] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[05:54:21] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[05:54:21] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[05:54:21] [Render thread/INFO]: Stopping JEI
+[05:54:21] [Render thread/INFO]: Sending Runtime Unavailable...
+[05:54:21] [Render thread/INFO]: Stopping JEI GUI
+[05:54:21] [Render thread/INFO]: Sending Runtime Unavailable took 1.734 ms
+[05:54:21] [Render thread/INFO]: Unloading synced configs from server
+[05:54:26] [Render thread/INFO]: Stopping!
