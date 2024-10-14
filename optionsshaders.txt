@@ -1,3 +1,19 @@
-#
-#Sat Oct 12 14:34:13 MSK 2024
+#Sun Oct 13 22:04:37 MSK 2024
+handDepthMul=0.125
+TexMinFilB=0
+oldLighting=default
+TexMagFilN=0
+tweakBlockDamage=false
+cloudShadow=true
+TexMagFilS=0
 shaderPack=ComplementaryUnbound_r5.2.2.zip
+TexMinFilN=0
+specularMapEnabled=true
+normalMapEnabled=true
+renderResMul=1.0
+oldHandLight=default
+TexMinFilS=0
+shadowResMul=1.0
+shadowClipFrustrum=true
+TexMagFilB=0
+antialiasingLevel=0

@@ -3245,107 +3245,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 423533,
-          "name": "Dungeons Content",
-          "author": "slashbro31",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/minecraft-dungeons-content",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 1,
-              "name": "magic",
-              "shortName": "magic",
-              "nesting": 0
-            },
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 55,
-              "name": "adventure_and_rpg",
-              "shortName": "roleplay",
-              "nesting": 0
-            },
-            {
-              "id": 14,
-              "name": "world_biomes",
-              "shortName": "biomes",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            }
-          ],
-          "picture": 846223,
-          "pictures": [
-            409105,
-            409101,
-            409099,
-            200362,
-            374089,
-            200361,
-            374087,
-            200363,
-            409100,
-            409104,
-            409106,
-            374090,
-            409102,
-            374088,
-            374086,
-            409103,
-            409107
-          ],
-          "lanName": "minecraft-dungeons-content",
-          "version": {
-            "id": 5591046,
-            "name": "dungeons_1.18_mc1.20.1",
-            "updateDate": 1722638343000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "a0d24cb33c6cfce60095a14adff86ef93fb45278",
-              "size": 49012714,
-              "path": "mods/dungeons_1.18_mc1.20.1.jar",
-              "url": "/mods/423533/5591046/dungeons_1.18_mc1.20.1.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "downloadMonth": 20,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 46,
-            "name": "1.20.1"
-          },
-          "updated": 1725310800000,
-          "update": 1725310800000,
-          "downloadALL": 1877364,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 635042,
           "name": "Ad Astra",
           "author": "alexnijjar",
@@ -5554,6 +5453,66 @@
           "downloadALL": 771565,
           "available": true,
           "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 9999999,
+          "name": "OptiFine",
+          "author": "OptiFine.net",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://optifine.net",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 52103,
+          "pictures": [],
+          "lanName": "optifine",
+          "version": {
+            "id": 11007362,
+            "name": "1.20.1_HD_U_I6_pre6",
+            "updateDate": 1702183588000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "445b32b14a2c2802d5a0832a708712d2fabafbc2",
+              "size": 7145056,
+              "path": "mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar",
+              "url": "/mods/23762020/11007361/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 106929,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 49,
+            "name": "1.20.4"
+          },
+          "updated": 1723798522000,
+          "update": 1723798522000,
+          "downloadALL": 77089203,
+          "available": true,
+          "parser": false,
           "totalComments": 0,
           "adult": false
         }
